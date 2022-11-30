@@ -8,13 +8,16 @@ Check out the Jupyter notebook here https://jovian.ai/abhishek-mehta2k/zerotoana
 
 ---
 **Tools Used**
+
 * `opendatasets` (Jovian library to download a Kaggle dataset) 
-<br>
+
 * Data cleaning:
+
   1.`Pandas`  
   2.`Numpy`
-<br>
+
 * Data Visualization
+
   1.`Matplotlib`   
   2.`Seaborn`  
   3.`plotly`  
